@@ -1,4 +1,4 @@
-#Netflix Homepage Clone
+# Netflix Homepage Clone
 
 ![Project Image](https://github.com/ocoyoyix/netflixHomeClone/blob/master/img/pageView.png?raw=true)
 
