@@ -8,7 +8,6 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -32,17 +31,20 @@ A clone of a previous Netflix homepage. It is intended to showcase the product f
 
 #### Installation
 
-#### API Reference
+1. On GitHub, navigate to the main page of the repository.
 
-```html
-<p>dummy code</p>
-```
+2. Under the repository name, click **Clone or download**.
 
-[Back To The Top](#netflix-homepage-clone)
+3. To clone the repository using HTTPS, under "Clone with HTTPS" copy link provided. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click **Use SSH**.
 
----
+4. Open Git Bash.
 
-## References
+5. Change the current working directory to the location where you want the cloned directory.
+
+6. Type `git clone`, and then paste the URL you copied earlier.
+   `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+
+7. Press **Enter** to create your local clone.
 
 [Back To The Top](#netflix-homepage-clone)
 
@@ -52,7 +54,7 @@ A clone of a previous Netflix homepage. It is intended to showcase the product f
 
 MIT License
 
-Copyright © 2020 <Orlando Coyoy>
+Copyright © 2020 |Orlando Coyoy Ixquiacche|
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -66,7 +68,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Git Repository - [Orlando Coyoy](https://github.com/ocoyoyix)
 
 [Back To The Top](#netflix-homepage-clone)
