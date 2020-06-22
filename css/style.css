@@ -256,7 +256,7 @@ img {
 }
 
 #gitLink {
-  text-decoration: default;
+  text-decoration: underline;
 }
 
 /* Text Styles */
