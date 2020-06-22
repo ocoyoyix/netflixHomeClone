@@ -15,13 +15,14 @@
 
 ## Description
 
-A clone of a previous Netflix homepage. It is intended to showcase the product features and pricing, and will be used to create a template for other paid service marketing.
+A clone of a previous Netflix homepage. It is intended to showcase the product features and pricing. It was made using [this](https://github.com/ocoyoyix/homepagetemplate) template.
 
 #### Technologies
 
 - HTML
 - CSS
 - Javascript
+- Font Awsome
 
 [Back To The Top](#netflix-homepage-clone)
 

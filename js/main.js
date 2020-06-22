@@ -23,5 +23,14 @@ function selectItem(e) {
   tabContentItem.classList.add("show");
 }
 
+//30 day update
+const date = new Date();
+const day = date.getDate();
+const month = date.getMonth();
+const year = date.getFullYear();
+date.setDate(date.getDate() + 30);
+var element = document.getElementById("date-update");
+element.innerText = `Monthly price after free month ends on ${month}/${day}/${year}`;
+
 //Listen for tab click
 tabItems.forEach((item) => item.addEventListener("click", selectItem));

@@ -5,8 +5,7 @@
   --text-dark-color: #999;
   --text-light-color: #fff;
 }
-/* #000 */
-/* #999 */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -44,6 +43,7 @@ img {
   width: 100%;
 }
 
+/* Photo Background with Text and buttons  */
 .showcase {
   width: 100%;
   height: 93vh;
@@ -228,6 +228,7 @@ img {
 .table tbody tr:nth-child(odd) {
   background: #222;
 }
+
 /* Footer */
 .footer {
   max-width: 75%;
@@ -454,5 +455,11 @@ img {
   }
   .min {
     display: inline-block;
+  }
+}
+
+@media (max-height: 550px) {
+  .showcase {
+    height: 200vh;
   }
 }
