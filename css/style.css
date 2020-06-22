@@ -255,6 +255,10 @@ img {
   line-height: 1.9;
 }
 
+#gitLink {
+  text-decoration: default;
+}
+
 /* Text Styles */
 .text-xl {
   font-size: 2rem;
